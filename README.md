@@ -108,7 +108,7 @@ Additional Layers:
 ## Preview
 
 ![Login](./images/login.png)
-![Generate Meals](./images/generate-meal request_response.png)
+![Generate Meals](./images/generate-meals.png)
 
 ## Live API
 
