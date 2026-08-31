@@ -191,6 +191,13 @@ chopBeta_Showcase/
 │   └── SECURITY.md
 │
 ├── images/
+│   ├── api-preview.png
+│   ├── api-preview-2.png
+│   ├── chopbeta_entry_file.png
+│   ├── generate-meals.png
+│   ├── login-success.png
+│   ├── mongoDB_Collection_view.png
+│   └── session-preview.png
 │
 └── README.md
 ```
